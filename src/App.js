@@ -17,7 +17,7 @@ class App extends Component {
         <p className="App-bug">
           <h3>Without alt tag</h3>
           <ReactImgix
-            src="https://bonobos-prod-s3.imgix.net/products/20820/original/PNT_WC_Cappuchinos_Slim_hero1a.jpg"
+            src="https://bonobos-prod-s3.imgix.net/products/22936/original/Tailored.png"
             imgProps={{
               alt: "This is alt text",
             }}
@@ -26,7 +26,7 @@ class App extends Component {
         <p className="App-bug">
           <h3>With alt tag</h3>
           <ReactImgix
-            src="https://bonobos-prod-s3.imgix.net/products/20820/original/PNT_WC_Cappuchinos_Slim_hero1a.jpg"
+            src="https://bonobos-prod-s3.imgix.net/products/22936/original/Tailored.png"
           />
         </p>
       </div>
