@@ -1,14 +1,14 @@
 {
   "name": "react-imgix-alt-bug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
   "dependencies": {
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "react-imgix": "^5.1.0"
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-imgix": "^7.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
