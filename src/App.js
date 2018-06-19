@@ -18,15 +18,15 @@ class App extends Component {
           <h3>Without alt tag</h3>
           <ReactImgix
             src="https://bonobos-prod-s3.imgix.net/products/22936/original/Tailored.png"
-            imgProps={{
-              alt: "This is alt text",
-            }}
           />
         </p>
         <p className="App-bug">
           <h3>With alt tag</h3>
           <ReactImgix
             src="https://bonobos-prod-s3.imgix.net/products/22936/original/Tailored.png"
+            imgProps={{
+              alt: "This is alt text",
+            }}
           />
         </p>
       </div>
